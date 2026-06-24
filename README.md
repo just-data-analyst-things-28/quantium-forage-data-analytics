@@ -29,6 +29,12 @@ The final strategic recommendations deliver an actionable roadmap designed to ma
     └── Quantium Presentation.pptx      <-- Original editable deck
 
 
+
+
+
+
+
+
 ## 📊 Core Insights & Executive Summary
 
 ### Phase 1: Customer Segmentation & Assortment Optimization
